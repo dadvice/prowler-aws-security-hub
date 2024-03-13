@@ -1,0 +1,6 @@
+$Env:AWS_ACCESS_KEY_ID=""
+$Env:AWS_SECRET_ACCESS_KEY=""
+$Env:AWS_SESSION_TOKEN=""
+$Env:AWS_DEFAULT_REGION=""
+Write-Output "Variables de entorno borradas."
+Write-Output "Activadas credenciales AWS CLI del sistema."
